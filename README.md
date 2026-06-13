@@ -33,8 +33,6 @@ A couple of larger open-source efforts in active development — go take a look:
 * [golic](https://github.com/Bugs5382/golic) — Injects license headers into source files. _(Go · ⭐1)_
 * [changelog-updater-action](https://github.com/Bugs5382/changelog-updater-action) — Updates CHANGELOG.md with advanced settings. _(Go · ⭐1)_
 * [typedoc-pages-action](https://github.com/Bugs5382/typedoc-pages-action) — Versioned TypeDoc → GitHub Pages, preserving history. _(Shell · ⭐1)_
-* [project-app-setup](https://github.com/Bugs5382/project-app-setup) — Scaffolds apps with my standard toolchain. _(TypeScript · ⭐1)_
-* [project-templates-misc](https://github.com/Bugs5382/project-templates-misc) — Standard config templates (Go, Node, Python, GitHub). _(Shell)_
 * [eslint-plugin-typedoc](https://github.com/Bugs5382/eslint-plugin-typedoc) — ESLint plugin that validates TypeDoc settings.
 * [gitlab-release-drafter](https://github.com/Bugs5382/gitlab-release-drafter) — Release-Drafter-style formatting for GitLab pipelines.
 

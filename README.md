@@ -1,18 +1,22 @@
 # Hi, I'm Shane 👋
 
-> 🛠️ An infrastructure engineer who writes code to **automate**, **simplify** and **speed up** the work around it.
+> 🧭 A CIO and CIDO who still builds: business-driven technology and digital strategy, backed by hands-on infrastructure and code.
 
-I work in **healthcare IT infrastructure**, and most of what lives here started as a tool for that
-job: libraries, plugins, charts and CI actions I needed, then cleaned up so anyone can use them. I
-write mostly **Go** and **TypeScript**, with some Python and shell. Issues and pull requests are
+I'm a technology and digital strategy executive who happens to be a well-rounded infrastructure
+engineer, systems integrator and application designer. I work in healthcare IT today, but the
+work carries to any industry. What I build here is automation, AI tooling, libraries, plugins,
+charts and CI actions, made for anyone to use, not only for my own work. I write mostly **Go** and
+**TypeScript**, with some Python and shell. I lead best when strategy and delivery sit in the same
+room, and these repos are where I keep my hands on the delivery side. Issues and pull requests are
 welcome on any of the repos below.
 
 ## ✨ Highlights
 
+- 🤖 **Automation and AI tooling:** release, changelog, documentation and repository automation that keeps a portfolio of projects moving with little hand work.
 - 🧰 **Go helper packages:** small building blocks for Go services, covering logging, tracing, errors, databases and messaging.
 - 🏥 **HL7 v2 in Go and Node:** message builders, MLLP clients and servers, and Fastify plugins for healthcare integration.
 - ☸️ **Kubernetes and DNS:** Helm charts and an ExternalDNS provider for self-hosted clusters.
-- 🤖 **Release automation:** GitHub Actions for changelogs and versioned documentation.
+- 🚀 **Release automation:** GitHub Actions for changelogs and versioned documentation.
 
 ## 🐹 Go
 

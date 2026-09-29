@@ -62,6 +62,7 @@ welcome on any of the repos below.
 ## 🛠 Tools
 
 - [golic](https://github.com/Bugs5382/golic): injects license headers into source files, and checks them in CI.
+- [claude-code-statusline-usage](https://github.com/Bugs5382/claude-code-statusline-usage): a Claude Code status line that shows plan usage (session and weekly) and saves it for scripts to read.
 - [project-learning-lessons](https://github.com/Bugs5382/project-learning-lessons): the code from my lessons and videos, free to reuse.
 
 ## 🏢 Organizations

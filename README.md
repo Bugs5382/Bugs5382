@@ -59,6 +59,12 @@ welcome on any of the repos below.
 - [changelog-updater-action](https://github.com/Bugs5382/changelog-updater-action): updates `CHANGELOG.md` from the release-drafter notes for each release.
 - [typedoc-pages-action](https://github.com/Bugs5382/typedoc-pages-action): builds versioned TypeDoc sites and publishes them to GitHub Pages, keeping every version.
 
+## 🧠 Claude
+
+### Status line
+
+- [claude-code-statusline-usage](https://github.com/Bugs5382/claude-code-statusline-usage): a Claude Code status line that shows plan usage (session and weekly) and saves it for scripts to read.
+
 ## 🛠 Tools
 
 - [golic](https://github.com/Bugs5382/golic): injects license headers into source files, and checks them in CI.

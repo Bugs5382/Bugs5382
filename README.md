@@ -26,8 +26,11 @@ welcome on any of the repos below.
 - [go-authz](https://github.com/Bugs5382/go-authz): a small, dependency-free authorization engine with composable rules, RBAC and a responsibility matrix.
 - [go-certkit](https://github.com/Bugs5382/go-certkit): parse, inspect and convert X.509 certificate and key containers (PEM, DER, PKCS#12, PKCS#7, JKS).
 - [go-email](https://github.com/Bugs5382/go-email): a dependency-light email client with RFC 5322 envelopes, multipart rendering and middleware over a pluggable transport.
+- [go-grpc-actor](https://github.com/Bugs5382/go-grpc-actor): carries the signed-in user and the act-as admin across gRPC service hops, trusted only from authenticated internal callers.
 - [go-log](https://github.com/Bugs5382/go-log): zerolog logging for Go services with OpenTelemetry trace correlation.
+- [go-objectstore](https://github.com/Bugs5382/go-objectstore): S3-compatible object storage behind a small Store interface, with streaming, presigned URLs, an S3 backend tested on MinIO and an in-memory fake.
 - [go-otel](https://github.com/Bugs5382/go-otel): a small OpenTelemetry bootstrap for Go services.
+- [go-outbox](https://github.com/Bugs5382/go-outbox): a transactional outbox on PostgreSQL that relays events at least once to RabbitMQ or any publisher.
 - [go-postgres](https://github.com/Bugs5382/go-postgres): PostgreSQL wiring with a tuned pgxpool, health checks and transactions that retry serialization failures.
 - [go-rabbitmq](https://github.com/Bugs5382/go-rabbitmq): RabbitMQ connections, publishers and consumers that reconnect on their own.
 - [go-redis](https://github.com/Bugs5382/go-redis): resilient Redis connections with sentinel failover and health checks.
@@ -45,11 +48,14 @@ welcome on any of the repos below.
 - [fastify-rabbitmq](https://github.com/Bugs5382/fastify-rabbitmq): a Fastify plugin for RabbitMQ, built on amqplib.
 - [fastify-hl7](https://github.com/Bugs5382/fastify-hl7): a Fastify plugin for sending and receiving HL7 v2 messages over MLLP.
 - [node-hl7](https://github.com/Bugs5382/node-hl7): the Node.js HL7 client and server packages in one monorepo.
+- [node-hl7-client](https://github.com/Bugs5382/node-hl7-client) (archived): the standalone HL7 client, now part of node-hl7.
+- [node-hl7-server](https://github.com/Bugs5382/node-hl7-server) (archived): the standalone HL7 server, now part of node-hl7.
 - [node-astronomy](https://github.com/Bugs5382/node-astronomy): astronomy data for the sun, moon and planets as an npm package.
 - [saga-flow-designer](https://github.com/Bugs5382/saga-flow-designer): React components for viewing and editing saga-orchestration workflows and runs.
 
 ## ☸️ Helm and Kubernetes
 
+- [helm-postgres-ha](https://github.com/Bugs5382/helm-postgres-ha): a highly available PostgreSQL chart with streaming replication, lease-based failover with fencing, WAL-G backup and restore, and PgBouncer.
 - [helm-gitlab](https://github.com/Bugs5382/helm-gitlab): a self-hosted GitLab chart that brings its own PostgreSQL HA, Valkey, SeaweedFS and Traefik.
 - [helm-technitium-chart](https://github.com/Bugs5382/helm-technitium-chart): run the Technitium DNS server on Kubernetes.
 - [external-dns-technitium-webhook](https://github.com/Bugs5382/external-dns-technitium-webhook): a Technitium provider for ExternalDNS.

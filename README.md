@@ -35,6 +35,7 @@ welcome on any of the repos below.
 - [go-rabbitmq](https://github.com/Bugs5382/go-rabbitmq): RabbitMQ connections, publishers and consumers that reconnect on their own.
 - [go-redis](https://github.com/Bugs5382/go-redis): resilient Redis connections with sentinel failover and health checks.
 - [go-seed](https://github.com/Bugs5382/go-seed): an idempotent database seed runner whose ordered steps verify the rows they claim to seed.
+- [go-workload-identity](https://github.com/Bugs5382/go-workload-identity): Kubernetes workload identity for gRPC services that verifies projected ServiceAccount tokens and enforces a per-method caller allow-list.
 
 ### Libraries
 

@@ -64,6 +64,7 @@ welcome on any of the repos below.
 ## 🤖 GitHub Actions
 
 - [changelog-updater-action](https://github.com/Bugs5382/changelog-updater-action): updates `CHANGELOG.md` from the release-drafter notes for each release.
+- [release-drafter-action](https://github.com/Bugs5382/release-drafter-action): a Go rewrite of release-drafter v7, with config as an input, a shared `extends` source, and a clean first release.
 - [typedoc-pages-action](https://github.com/Bugs5382/typedoc-pages-action): builds versioned TypeDoc sites and publishes them to GitHub Pages, keeping every version.
 
 ## 🧠 Claude

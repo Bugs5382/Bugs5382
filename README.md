@@ -94,7 +94,7 @@ welcome on any of the repos below.
 - [the-rabbit-hole-tech](https://github.com/the-rabbit-hole-tech): my company, behind the products below, and where I build the rabbit hole, my interactive portfolio site.
 - [CryptOS-PKI](https://github.com/CryptOS-PKI): an immutable, API-driven PKI operating system. It applies the Talos Linux approach to certificate authorities: no SSH, no shell, mTLS gRPC only, and CA keys sealed in the TPM.
 - [Sneakers-PAM](https://github.com/Sneakers-PAM): open-source privileged access management. It covers a credential vault, rotation, approvals, SSH brokering and an appliance.
-- [Steward-GRC](https://github.com/Steward-GRC): open-source governance, risk and compliance. It covers policies and procedures, approval workflows, acknowledgements and a hash-chained audit trail, with its [product site](https://github.com/Steward-GRC/website).
+- [Steward-GRC](https://github.com/Steward-GRC): open-source governance, risk and compliance. It covers policies and procedures, approval workflows, acknowledgements and a hash-chained audit trail, with its [product site](https://github.com/Steward-GRC/website), an appliance and native Android and iOS apps.
 
 **Commercial products:**
 

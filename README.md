@@ -24,6 +24,7 @@ welcome on any of the repos below.
 
 - [go-apperr](https://github.com/Bugs5382/go-apperr): coded application errors with stable, reportable numeric codes and pluggable logging and tracing.
 - [go-authz](https://github.com/Bugs5382/go-authz): a small, dependency-free authorization engine with composable rules, RBAC and a responsibility matrix.
+- [go-buildinfo](https://github.com/Bugs5382/go-buildinfo): build version and commit for Go services, stamped with ldflags or read from VCS, and reported on the gRPC and HTTP health endpoints.
 - [go-certkit](https://github.com/Bugs5382/go-certkit): parse, inspect and convert X.509 certificate and key containers (PEM, DER, PKCS#12, PKCS#7, JKS).
 - [go-email](https://github.com/Bugs5382/go-email): a dependency-light email client with RFC 5322 envelopes, multipart rendering and middleware over a pluggable transport.
 - [go-grpc-actor](https://github.com/Bugs5382/go-grpc-actor): carries the signed-in user and the act-as admin across gRPC service hops, trusted only from authenticated internal callers.
@@ -51,6 +52,7 @@ welcome on any of the repos below.
 - [node-hl7](https://github.com/Bugs5382/node-hl7): the Node.js HL7 client and server packages in one monorepo.
 - [node-hl7-client](https://github.com/Bugs5382/node-hl7-client) (archived): the standalone HL7 client, now part of node-hl7.
 - [node-hl7-server](https://github.com/Bugs5382/node-hl7-server) (archived): the standalone HL7 server, now part of node-hl7.
+- [node-eslint-config](https://github.com/Bugs5382/node-eslint-config): the shared ESLint config used across my Node projects.
 - [node-astronomy](https://github.com/Bugs5382/node-astronomy): astronomy data for the sun, moon and planets as an npm package.
 - [saga-flow-designer](https://github.com/Bugs5382/saga-flow-designer): React components for viewing and editing saga-orchestration workflows and runs.
 
@@ -73,6 +75,10 @@ welcome on any of the repos below.
 
 - [claude-code-statusline-usage](https://github.com/Bugs5382/claude-code-statusline-usage): a Claude Code status line that shows plan usage (session and weekly) and saves it for scripts to read.
 
+### Handoff
+
+- [claude-handoff-web](https://github.com/Bugs5382/claude-handoff-web): a small, self-updating review and sign-off site for handing work to a person, with live updates, Yes/No/Changes reviews and checklists.
+
 ## 🛠 Tools
 
 - [golic](https://github.com/Bugs5382/golic): injects license headers into source files, and checks them in CI.
@@ -80,7 +86,7 @@ welcome on any of the repos below.
 
 ## 🏢 Organizations
 
-- [the-rabbit-hole-tech](https://github.com/the-rabbit-hole-tech): shared tooling for my Node projects, including [eslint-config](https://github.com/the-rabbit-hole-tech/eslint-config) and [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme).
+- [the-rabbit-hole-tech](https://github.com/the-rabbit-hole-tech): shared tooling for my Node projects, including [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme).
 - [CryptOS-PKI](https://github.com/CryptOS-PKI): an immutable, API-driven PKI operating system. It applies the Talos Linux approach to certificate authorities: no SSH, no shell, mTLS gRPC only, and CA keys sealed in the TPM.
 - [Sneakers-PAM](https://github.com/Sneakers-PAM): open-source privileged access management. It covers a credential vault, rotation, approvals, SSH brokering and an appliance.
 - [Steward-GRC](https://github.com/Steward-GRC): open-source governance, risk and compliance. It covers policies and procedures, approval workflows, acknowledgements and a hash-chained audit trail, with its [product site](https://github.com/Steward-GRC/website).

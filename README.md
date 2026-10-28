@@ -37,6 +37,7 @@ welcome on any of the repos below.
 - [go-redis](https://github.com/Bugs5382/go-redis): resilient Redis connections with sentinel failover and health checks.
 - [go-seed](https://github.com/Bugs5382/go-seed): an idempotent database seed runner whose ordered steps verify the rows they claim to seed.
 - [go-workload-identity](https://github.com/Bugs5382/go-workload-identity): Kubernetes workload identity for gRPC services that verifies projected ServiceAccount tokens and enforces a per-method caller allow-list.
+- [go-yjs-relay](https://github.com/Bugs5382/go-yjs-relay): a Yjs relay with per-room y-websocket sync, presence fan-out, debounced snapshots, and flush and freeze around a publish.
 
 ### Libraries
 
@@ -54,6 +55,7 @@ welcome on any of the repos below.
 - [node-hl7-server](https://github.com/Bugs5382/node-hl7-server) (archived): the standalone HL7 server, now part of node-hl7.
 - [node-eslint-config](https://github.com/Bugs5382/node-eslint-config): the shared ESLint config used across my Node projects.
 - [node-astronomy](https://github.com/Bugs5382/node-astronomy): astronomy data for the sun, moon and planets as an npm package.
+- [node-koenig-editor](https://github.com/Bugs5382/node-koenig-editor): Ghost's Koenig editor on Lexical and React as an npm package, with optional Yjs collaboration.
 - [saga-flow-designer](https://github.com/Bugs5382/saga-flow-designer): React components for viewing and editing saga-orchestration workflows and runs.
 
 ## ☸️ Helm and Kubernetes

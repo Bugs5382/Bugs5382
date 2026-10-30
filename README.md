@@ -81,15 +81,18 @@ welcome on any of the repos below.
 
 - [claude-handoff-web](https://github.com/Bugs5382/claude-handoff-web): a small, self-updating review and sign-off site for handing work to a person, with live updates, Yes/No/Changes reviews and checklists.
 
-## 🛠 Tools
+### Sessions
 
 - [claude-tmux](https://github.com/Bugs5382/claude-tmux): tmux sessions for Claude Code on macOS and Linux, with hourly snapshots and a restore that resumes each Claude conversation.
+
+## 🛠 Tools
+
 - [golic](https://github.com/Bugs5382/golic): injects license headers into source files, and checks them in CI.
 - [project-learning-lessons](https://github.com/Bugs5382/project-learning-lessons): the code from my lessons and videos, free to reuse.
 
 ## 🏢 Organizations
 
-- [the-rabbit-hole-tech](https://github.com/the-rabbit-hole-tech): shared tooling for my Node projects, including [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme).
+- [the-rabbit-hole-tech](https://github.com/the-rabbit-hole-tech): my company, behind the products below, and where I build the rabbit hole, my interactive portfolio site. Its public repo is [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme), the shared Docusaurus theme for my documentation sites.
 - [CryptOS-PKI](https://github.com/CryptOS-PKI): an immutable, API-driven PKI operating system. It applies the Talos Linux approach to certificate authorities: no SSH, no shell, mTLS gRPC only, and CA keys sealed in the TPM.
 - [Sneakers-PAM](https://github.com/Sneakers-PAM): open-source privileged access management. It covers a credential vault, rotation, approvals, SSH brokering and an appliance.
 - [Steward-GRC](https://github.com/Steward-GRC): open-source governance, risk and compliance. It covers policies and procedures, approval workflows, acknowledgements and a hash-chained audit trail, with its [product site](https://github.com/Steward-GRC/website).
@@ -97,4 +100,4 @@ welcome on any of the repos below.
 **Commercial products:**
 
 - [Brigade-ITSM](https://github.com/Brigade-ITSM): IT service management. In development.
-- [VitalsDA](https://github.com/VitialsDA): healthcare software. Not yet released.
+- [VitalsDA](https://github.com/VitalsDA): healthcare software. Not yet released.

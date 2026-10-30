@@ -83,6 +83,7 @@ welcome on any of the repos below.
 
 ## 🛠 Tools
 
+- [claude-tmux](https://github.com/Bugs5382/claude-tmux): tmux sessions for Claude Code on macOS and Linux, with hourly snapshots and a restore that resumes each Claude conversation.
 - [golic](https://github.com/Bugs5382/golic): injects license headers into source files, and checks them in CI.
 - [project-learning-lessons](https://github.com/Bugs5382/project-learning-lessons): the code from my lessons and videos, free to reuse.
 

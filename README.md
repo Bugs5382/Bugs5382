@@ -97,4 +97,4 @@ welcome on any of the repos below.
 **Commercial products:**
 
 - [Brigade-ITSM](https://github.com/Brigade-ITSM): IT service management. In development.
-- [VitalsDA](https://github.com/VitialsDA): healthcare software. Not yet released.
+- [VitialsDA](https://github.com/VitialsDA): healthcare software. Not yet released.

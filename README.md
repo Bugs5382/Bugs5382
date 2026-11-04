@@ -53,7 +53,7 @@ welcome on any of the repos below.
 - [node-hl7](https://github.com/Bugs5382/node-hl7): the Node.js HL7 client and server packages in one monorepo.
 - [node-hl7-client](https://github.com/Bugs5382/node-hl7-client) (archived): the standalone HL7 client, now part of node-hl7.
 - [node-hl7-server](https://github.com/Bugs5382/node-hl7-server) (archived): the standalone HL7 server, now part of node-hl7.
-- [node-eslint-config](https://github.com/Bugs5382/node-eslint-config): the shared ESLint config used across my Node projects.
+- [node-oxlint-config](https://github.com/Bugs5382/node-oxlint-config): the shared Oxlint and oxfmt configs used across my Node projects.
 - [node-astronomy](https://github.com/Bugs5382/node-astronomy): astronomy data for the sun, moon and planets as an npm package.
 - [node-koenig-editor](https://github.com/Bugs5382/node-koenig-editor): Ghost's Koenig editor on Lexical and React as an npm package, with optional Yjs collaboration.
 - [saga-flow-designer](https://github.com/Bugs5382/saga-flow-designer): React components for viewing and editing saga-orchestration workflows and runs.

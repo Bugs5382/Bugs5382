@@ -83,7 +83,6 @@ welcome on any of the repos below.
 
 ### Sessions
 
-- [claude-tmux](https://github.com/Bugs5382/claude-tmux): tmux sessions for Claude Code on macOS and Linux, with hourly snapshots and a restore that resumes each Claude conversation.
 
 ## 🛠 Tools
 

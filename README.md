@@ -29,6 +29,7 @@ welcome on any of the repos below.
 - [go-email](https://github.com/Bugs5382/go-email): a dependency-light email client with RFC 5322 envelopes, multipart rendering and middleware over a pluggable transport.
 - [go-grpc-actor](https://github.com/Bugs5382/go-grpc-actor): carries the signed-in user and the act-as admin across gRPC service hops, trusted only from authenticated internal callers.
 - [go-log](https://github.com/Bugs5382/go-log): zerolog logging for Go services with OpenTelemetry trace correlation.
+- [go-mtls](https://github.com/Bugs5382/go-mtls): mutual TLS for Go gRPC and HTTP services: server and client configs that reload their certificates from files, with the matching grpc options.
 - [go-objectstore](https://github.com/Bugs5382/go-objectstore): S3-compatible object storage behind a small Store interface, with streaming, presigned URLs, an S3 backend tested on MinIO and an in-memory fake.
 - [go-otel](https://github.com/Bugs5382/go-otel): a small OpenTelemetry bootstrap for Go services.
 - [go-outbox](https://github.com/Bugs5382/go-outbox): a transactional outbox on PostgreSQL that relays events at least once to RabbitMQ or any publisher.
